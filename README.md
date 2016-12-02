@@ -21,5 +21,5 @@ We assume Black play first, and white play the second. So you should allow the p
 ## Project Members
 
 * 亞琳娜
-* 林文智
+* Luis Robles (林文智)
 * 蔡洁诗
